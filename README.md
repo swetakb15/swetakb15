@@ -21,6 +21,7 @@
 <br/>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetakb15&label=Profile%20views&color=0e75b6&style=flat" alt="swetakb15" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetakb15" alt="swetakb15" /></a> </p>
 
 - 🔭 I’m currently working on Remotely sensed data.
 - 🌱 I’m currently learning more about Data Structures and Web development
