@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetakb15&label=Profile%20views&color=0e75b6&style=flat" alt="swetakb15" /> </p>
 
 - 🔭 I’m currently working on Remotely sensed data.
 - 🌱 I’m currently learning more about Data Structures and Web development
