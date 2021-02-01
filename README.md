@@ -39,14 +39,8 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=swetakb15&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swetakb15&hide=css,java,html&theme=tokyonight">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetakb15&" alt="swetakb15" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetakb15&" alt="swetakb15" />
 </p>
 
 </details>
 
-## Check my blogs
-
-<details> 
- <summary>📑 My latest [Medium articles](https://sweta-akb15.medium.com/)</summary>
-    
-</details>
