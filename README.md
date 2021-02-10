@@ -37,8 +37,9 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=swetakb15&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swetakb15&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=swetakb15&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swetakb15&hide=css,java,html&theme=radical&line_height=27">
+  <img src=" https://github-readme-stats.vercel.app/api/pin/?username=swetakb15&repo=github-readme-stats&cache_seconds=86400&theme=radical">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetakb15&" alt="swetakb15" />
 </p>
 
