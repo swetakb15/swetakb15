@@ -1,6 +1,7 @@
-<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairStraightStrand&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Black&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light'
-/>
-### Hola , I'm [Sweta Barnwal](https://www.linkedin.com/in/sweta-barnwal-607483196)👋
+<p align="center">
+  <img src="https://media.giphy.com/media/UXPr715fNgTQ3Tg7Dg/giphy.gif" width="40%">
+  <br/>
+  <br/>
 <a href="https://twitter.com/SWETABARNWAL5?s=08">
   <img align="left" alt="Sweta's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
