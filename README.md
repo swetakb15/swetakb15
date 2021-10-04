@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetakb15" alt="swetakb15" /></a> </p>
 
 - 🔭 I’m currently working on Remotely sensed data.
-- 🌱 I’m currently learning more about Data Structures and Web development
+- 🌱 I’m currently learning more about Data Structures
 - 👯 I’m looking to collaborate on Data Science Project
 - 💬 Ask me about Remotely sensed Data
 - 📫 How to reach me: [LinkedIn - @sweta](https://www.linkedin.com/in/sweta-barnwal-607483196/),[Email- @sweta](sweta.akb15@gmail.com)
